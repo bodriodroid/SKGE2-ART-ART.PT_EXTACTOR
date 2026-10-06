@@ -1,0 +1,23 @@
+# Game data: never commit it
+*.gfs
+*.art
+*.art-pt
+*.foit
+*.dds
+*.pcx
+*.act
+unpacked/
+extract/
+build/
+mods/
+SKGSTEAM/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
